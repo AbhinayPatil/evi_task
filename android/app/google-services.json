@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "90450241619",
+    "project_id": "evi-app-f2479",
+    "storage_bucket": "evi-app-f2479.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90450241619:android:af95cfb18f584e8fa4bea6",
+        "android_client_info": {
+          "package_name": "com.example.evi_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90450241619-93g8egqji18d1k87731hhqb97mj5jc2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEW5FTTB7HP2DsJHdbigHp_XKup0PgtoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90450241619-93g8egqji18d1k87731hhqb97mj5jc2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
