@@ -1,16 +1,7 @@
 # evi_app
+This is a simple project where user is authenticated and details filled in are stored in fire base.
 
-A new Flutter project.
+![image](https://user-images.githubusercontent.com/89311783/206836055-914e53c9-7e21-4abc-9b6f-15979974c93a.png)
+![image](https://user-images.githubusercontent.com/89311783/206836064-b2ae989d-d80d-4cb4-b761-0449a26ed6e0.png)
+![image](https://user-images.githubusercontent.com/89311783/206836071-2867d58c-fb1e-489b-8601-3e0e0a63f4d0.png)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
